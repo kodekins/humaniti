@@ -6,7 +6,7 @@ import CTABanner from '@/components/sections/CTABanner'
 
 export const metadata: Metadata = {
   title: 'About — Humaniti AI',
-  description: 'We\'re Humaniti AI — an AI agency that builds real automation systems for real businesses.',
+  description: 'We&apos;re Humaniti AI — an AI agency that builds real automation systems for real businesses.',
 }
 
 const values = [

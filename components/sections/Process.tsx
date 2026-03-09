@@ -13,7 +13,7 @@ const steps = [
     index: '02',
     title: 'AI BLUEPRINT',
     desc:  'We deliver a custom AI Architecture Map — prioritized automations, tools, timelines, and projected ROI.',
-    detail: 'You\'ll see exactly what we\'ll build, in what order, and why — before any contract is signed.',
+    detail: 'You&apos;ll see exactly what we&apos;ll build, in what order, and why — before any contract is signed.',
   },
   {
     index: '03',
@@ -25,7 +25,7 @@ const steps = [
     index: '04',
     title: 'HANDOFF + TRAINING',
     desc:  'Full documentation, video walkthroughs, and live training so your team owns and can extend every system.',
-    detail: 'We don\'t create dependency — we create capability. Your team runs the machine confidently.',
+    detail: 'We don&apos;t create dependency — we create capability. Your team runs the machine confidently.',
   },
 ]
 

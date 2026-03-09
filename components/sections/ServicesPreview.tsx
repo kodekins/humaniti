@@ -30,7 +30,7 @@ const services = [
   {
     index:  'S-05',
     title:  'DATA & ANALYTICS',
-    desc:   'Custom dashboards, attribution models, and live reporting pipelines so you always know what\'s working and what\'s wasting budget.',
+    desc:   'Custom dashboards, attribution models, and live reporting pipelines so you always know what&apos;s working and what&apos;s wasting budget.',
     tags:   ['Airtable', 'Looker Studio', 'BigQuery'],
   },
   {
