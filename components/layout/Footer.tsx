@@ -103,7 +103,7 @@ export default function Footer() {
               href="mailto:hello@humanitiiai.com"
               className="text-xs text-offwhite hover:text-acid transition-colors"
             >
-              hello@humanitiai.com
+              info@humanitiaiagency.com
             </a>
           </div>
         </div>

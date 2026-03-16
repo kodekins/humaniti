@@ -45,7 +45,7 @@ export default function ContactPage() {
         setForm({ name: '', email: '', company: '', service: '', budget: '', message: '' })
       } else {
         setStatus('error')
-        setErrMsg('Something went wrong. Please email us directly at hello@humanitiai.com')
+        setErrMsg('Something went wrong. Please email us directly at info@humanitiaiagency.com')
       }
     } catch {
       setStatus('error')
@@ -113,7 +113,7 @@ export default function ContactPage() {
           <FadeUp delay={300}>
             <div className="flex flex-col gap-6">
               {[
-                { icon: '📧', label: 'EMAIL', val: 'hello@humanitiai.com' },
+                { icon: '📧', label: 'EMAIL', val: 'info@humanitiaiagency.com' },
                 { icon: '🕐', label: 'RESPONSE TIME', val: 'Within 24 hours' },
                 { icon: '📍', label: 'TIMEZONE', val: 'Available globally' },
               ].map(i => (
